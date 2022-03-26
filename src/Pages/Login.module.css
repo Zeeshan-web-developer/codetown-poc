@@ -1,0 +1,17 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.loginButton {
+  border: none;
+  background-color: firebrick;
+  height: 50px;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+}
